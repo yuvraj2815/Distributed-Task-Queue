@@ -144,6 +144,3 @@ distributed-task-queue/
 Multi-process workers (bypass the GIL for CPU work), Redis-backed queue for true
 distribution across machines, job dependencies / DAGs, cron-style recurring jobs,
 result backend.
-
-## License
-MIT.
